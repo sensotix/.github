@@ -2,9 +2,11 @@
 
 Welcome to Sensotix!
 
-We use this to easily find frequently needed repositories:
+We use this readme to easily find frequently needed repositories and projects:
 
 HVAT:<br>
+<a href="https://github.com/orgs/sensotix/projects/2" target="_blank">HVAT LSUE Project dashboard</a><br>
+
 <a href="https://github.com/sensotix/stx-app-s-helvetia-at" target="_blank">App HVAT LSUE</a><br>
 <a href="https://github.com/sensotix/stx-prj-s-helvetia-at" target="_blank">Project HVAT LSUE</a>
 

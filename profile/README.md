@@ -4,6 +4,9 @@ Welcome to Sensotix!
 
 We use this to easily find frequently needed repositories:
 
+HVAT:
+!(App for HVAT)[https://github.com/sensotix/stx-app-s-rkbgamo-de]
+
 
 
 <!--

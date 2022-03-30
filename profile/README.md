@@ -5,11 +5,11 @@ Welcome to Sensotix!
 We use this to easily find frequently needed repositories:
 
 HVAT:<br>
-![App HVAT LSUE](https://github.com/sensotix/stx-app-s-helvetia-at)
-![Project HVAT LSUE](https://github.com/sensotix/stx-prj-s-helvetia-at)
+[App HVAT LSUE](https://github.com/sensotix/stx-app-s-helvetia-at)<br>
+[Project HVAT LSUE](https://github.com/sensotix/stx-prj-s-helvetia-at)
 
 RKBGamo:<br>
-![App RKBGamo](https://github.com/sensotix/stx-app-s-rkbgamo-de)
+[App RKBGamo](https://github.com/sensotix/stx-app-s-rkbgamo-de)
 
 <!--
 

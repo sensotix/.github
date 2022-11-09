@@ -10,7 +10,7 @@ HVAT:<br>
 <a href="https://github.com/sensotix/stx-app-s-helvetia-at" target="_blank">App HVAT LSUE</a><br>
 <a href="https://github.com/sensotix/stx-prj-s-helvetia-at" target="_blank">Directus HVAT LSUE</a>
 
-<a href="https://github.com/sensotix/stx-prj-c-helvetia-stxgateway-at" target="_blank">App HVAT STX-Gateway</a><br>
+<a href="https://github.com/sensotix/stx-prj-c-helvetia-stxgateway-at" target="_blank">Directus HVAT STX-Gateway</a><br>
 
 RKBGamo:<br>
 <a href="https://github.com/sensotix/stx-app-s-rkbgamo-de" target="_blank">App RKBGamo</a>
